@@ -24,4 +24,10 @@ watch and learn
 
 [![Laravel, PHP, Django, MySQL, React.js, Figma](https://skillicons.dev/icons?i=laravel,php,django,mysql,react,figma,)](https://skillicons.dev)
 
+## 🎮 Ketika Lieur keadaan:
+
+![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
 </div>
