@@ -20,7 +20,7 @@ watch and learn
 
 [![HTML, CSS, JavaScript, Arduino, C++, Python, Visual Studio Code, Vercel](https://skillicons.dev/icons?i=html,css,js,arduino,cpp,py,vscode,vercel)](https://skillicons.dev)
 
-##⚡Skill ComingSoon:
+## ⚡ My Skill ComingSoon:
 
 [![Laravel, PHP, Django, MySQL, React.js, Figma](https://skillicons.dev/icons?i=laravel,php,django,mysql,react,figma,)](https://skillicons.dev)
 
