@@ -1,5 +1,5 @@
 # riefki-123
-watch and learn
+Ha... Selangkah depan dari kamu, cemas ya dek?
 
 <div align="center">
   
@@ -9,10 +9,10 @@ watch and learn
 
 </div>
 
-- 🔭 I’m currently working at ... nah just freelance startup at Upwork and Fastwork.
-- 🌱 I’m passionate about Web Development and IoT. This year i will studying about React Js and Laravel.
-- 🏆 I'm one of the top 15 best students at the University. maybe, but I don't feel special about it
-- ⚡ Fun fact: I create my profile Github!
+- 🔭 I’m currently working at ... nah just start freelance at Upwork and Fastwork, wish me luck.
+- 🌱 I’m passionate about Web Development and IoT. This year i will studying about Back-End and UI UX.
+- 🏆 I'm one of the top 15 best students at the University. maybe, but I don't feel special about it.
+- ⚡ Fun fact: ...
 
 <div align="center">
 
@@ -24,7 +24,7 @@ watch and learn
 
 [![Laravel, PHP, Django, MySQL, React.js, Figma](https://skillicons.dev/icons?i=laravel,php,django,mysql,react,figma,)](https://skillicons.dev)
 
-## 🎮 Ketika Lieur keadaan:
+## 🎮 Me when hits the realize so bad ... :
 
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
