@@ -1,6 +1,8 @@
 # riefki-123
-Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha. Well you can see my Project here!
 
+[![Hello World, I'm Jasper!](asset/header.gif)](https://github.com/riefki-123)
+Background GIF by [Velovories](https://id.pinterest.com/pin/21532904463359127/) on [Pinterest](https://www.pinterest.com/).
+Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha. Well you can see my Project here!
 
 - 🔭 I’m currently working at ... nah just start freelance at Upwork and Fastwork, wish me luck.
 - 🌱 I’m passionate about Web Development and IoT. This year i will studying about Back-End and UI UX.
