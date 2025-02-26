@@ -8,7 +8,8 @@ Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha
 - ⚡ Fun fact: ...
 
 <div align="center">
-**## 📱 Get in Touch!: **
+
+## 📱 Get In Touch!
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nugraha_rfki/) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/riefki-nugraha/) &nbsp;
@@ -18,7 +19,7 @@ Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha
 
 [![HTML, CSS, JavaScript, Arduino, C++, Python, Visual Studio Code, Vercel](https://skillicons.dev/icons?i=html,css,js,arduino,cpp,py,vscode,vercel)](https://skillicons.dev)
 
-## ⚡ I'm Studying Now!:
+## ⚡ I'm Studying Now!
 
 [![Laravel, PHP, Django, MySQL, React.js, Figma](https://skillicons.dev/icons?i=laravel,php,django,mysql,react,figma,)](https://skillicons.dev)
 
