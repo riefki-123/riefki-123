@@ -8,7 +8,7 @@ Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha
 - ⚡ Fun fact: ...
 
 <div align="center">
-## 📱 Get in Touch!:
+**## 📱 Get in Touch!: **
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nugraha_rfki/) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/riefki-nugraha/) &nbsp;
