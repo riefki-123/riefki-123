@@ -1,5 +1,5 @@
 # riefki-123
-Ha... Selangkah depan dari kamu, cemas ya dek?
+hey, my full name is Riefki Nugraha. Yes yes yes i agree
 
 <div align="center">
   
