@@ -10,9 +10,9 @@ Background GIF by [Velovories](https://id.pinterest.com/pin/21532904463359127/) 
 Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha. Well you can see my Project here!
 
 - 🔭 I’m currently working at ... nah just start freelance at Upwork and Fastwork, wish me luck.
-- 🌱 I’m passionate about Web Development and IoT. This year i will studying about Back-End and UI UX.
-- 🏆 I'm one of the top 15 best students at the University. maybe, but I don't feel special about it.
-- ⚡ Fun fact: ...
+- 🌱 I’m passionate about Web Development and IoT. This year i will studying about Back-End.
+- 🏆 I'm one of the top 15 best students at the University. maybe, but uhhh I don't feel special about it.
+- ⚡ Fun fact: I'm able to adapt quickly.
 
 <div align="center">
 
@@ -28,7 +28,7 @@ Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha
 
 ## ⚡ I'm Studying Now!
 
-[![Laravel, PHP, Django, MySQL, React.js, Figma](https://skillicons.dev/icons?i=laravel,php,django,mysql,react,figma,)](https://skillicons.dev)
+[![PHP, Django, MySQL, Figma](https://skillicons.dev/icons?i=laravel,php,django,mysql,react,figma,)](https://skillicons.dev)
 
 ## 🎮 Me when hits the realize so bad ... :
 
