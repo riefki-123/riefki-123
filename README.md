@@ -28,7 +28,7 @@ Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha
 
 ## ⚡ I'm Studying Now!
 
-[![PHP, Django, MySQL, Figma](https://skillicons.dev/icons?i=laravel,php,django,mysql,react,figma,)](https://skillicons.dev)
+[![MySQL, Astro, Figma](https://skillicons.dev/icons?i=mysql,astro,figma,)](https://skillicons.dev)
 
 ## 🎮 Me when hits the realize so bad ... :
 
