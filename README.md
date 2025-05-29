@@ -30,7 +30,7 @@ Hello Fellas, this is first my setup Profile. So, my full name is Riefki Nugraha
 
 [![MySQL, Astro, Figma](https://skillicons.dev/icons?i=mysql,astro,figma,)](https://skillicons.dev)
 
-## 🎮 Me when hits the realize so bad ... :
+## 🎮 Bing Chillin Stuff :
 
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
